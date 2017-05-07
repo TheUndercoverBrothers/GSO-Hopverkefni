@@ -26,7 +26,7 @@ create table lagid
 (
     ID Int Primary key auto_increment,
     nafn varchar(35),
-    lengd varchar(5),
+    lengd TIME NOT NULL,
     texti text,
     ID_tegund Int,
     foreign key(ID_tegund) references tegund(ID),

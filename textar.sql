@@ -1,7 +1,7 @@
 ﻿insert into 
 	lagid(nafn,lengd,texti,ID_tegund,ID_flytjandi,ID_diskur,ID_flokkur)
 values
-	('Highway to hell','3:28',"Living easy, living free
+	('Highway to hell',328,"Living easy, living free
 Season ticket on a one-way ride
 Asking nothing, leave me be
 Taking everything in my stride
@@ -44,7 +44,7 @@ And I'm going down
 All the way
 Whoa!
 I'm on the highway to hell",2,1,2)
-	("Girls got rhythm", '3:24',"I been around the world
+	("Girls got rhythm", 324,"I been around the world
 I've seen a million girls
 Ain't one of them got
 What my lady she got
@@ -90,7 +90,7 @@ You know she really got the rhythm (girls got rhythm)
 She got the back seat rhythm (back seat rhythm)
 Rock 'n' roll rhythm (rock 'n' roll rhythm)
 The girls got rhythm",2,1,2)
-	('Walk all over you', '5:09', "Outta my way I'm a running high
+	('Walk all over you', 509, "Outta my way I'm a running high
 Take a chance with me and give it a try
 Ain't no woman in the world I know
 'Cause I ain't lookin' for an overflow
@@ -128,7 +128,7 @@ I'm gonna walk all over
 You
 
 I'm gonna walk all over you",2,1,2)
-	('touch too much', '4:26', "When you said it's a touch too much I knew, I knew
+	('touch too much', 426, "When you said it's a touch too much I knew, I knew
 That I'd be walking home again
 When you said it's a touch too much I knew, I knew
 That I'd be walking home again
@@ -169,7 +169,7 @@ When you said it's a touch too much I knew, I knew
 That I'd be walking home again
 When you said it's a touch too much I knew, I knew
 That I'd be walking home again", 2,1,2)
-	('Beating around the bush', '3:56', "Smilin' face and laughin' eyes
+	('Beating around the bush', 356, "Smilin' face and laughin' eyes
 But you keep on tellin' me all those lies
 How'd you expect me to believe
 Honey I ain't that naive
@@ -213,7 +213,7 @@ Chew it up
 Spit it out
 Let it all hang out
 Beating around the bush",2,1,2)
-	('Shot down in flames', '3:23', "Whoa
+	('Shot down in flames', 323, "Whoa
 Whoa, one two
 
 Out on the town
@@ -263,7 +263,7 @@ To be shot down in flames
 I don't need a thing
 Don't wanna be
 Shot down in flames",2,1,2)
-	('Get it hot', '2:34', "
+	('Get it hot', 234, "
 Goin' out on the town
 Just a me and you
 Gonna have ourselves a party
@@ -305,7 +305,7 @@ Get it hot
 Come on baby
 Get it hot
 Whoa yeah",2,1,2)
-	("If You Want Blood (You've Got It)", '4:37', "It's criminal
+	("If You Want Blood (You've Got It)", 437, "It's criminal
 There ought to be a law
 Criminal
 There ought to be a whole lot more
@@ -354,7 +354,7 @@ If you want blood, you got it
 If you want blood, you got it
 If you want blood, you got it
 If you want blood, you got it",2,1,2)
-	('Love Hungry Man', "4:17", "You're the one I've waited for
+	('Love Hungry Man', 417, "You're the one I've waited for
 I need your lovin'
 More and more
 I don't know what your name is
@@ -392,7 +392,7 @@ Yes I am
 A mans got to eat baby, bon appetite
 I'm your
 Love hungry man",2,1,2)
-	('Night Prowler', '6;16', "Somewhere a clock strikes midnight
+	('Night Prowler', 616, "Somewhere a clock strikes midnight
 And there's a full moon in the sky
 You hear a dog bark in the distance
 You hear someone's baby cry
@@ -436,7 +436,7 @@ Nothing you can do
 
 Shazbot
 Nanu nanu",2,1,2)
-	('Hells Bells', '5:12', "I'm rolling thunder pouring rain
+	('Hells Bells', 512, "I'm rolling thunder pouring rain
 I'm coming on like a hurricane
 My lightning's flashing across the sky
 You're only young but you're gonna die
@@ -475,7 +475,7 @@ Hells bells, gonna split the night
 Hells bells, there's no way to fight
 
 Hells bells",2,2,2)
-	('Shoot to Thrill', '5:17', "All you women who want a man of the street
+	('Shoot to Thrill', 517, "All you women who want a man of the street
 But you don't know which way you want to turn
 Just keep a coming and put your hand out to me
 'Cause I'm the one who's gonna make you burn
@@ -540,7 +540,7 @@ Play to kill
 Shoot to thrill
 
 Yeah, ooh yeah",2,2,2)
-	('What Do You Do For Money Honey', '3:35', "You workin' in bars ridin' in cars
+	('What Do You Do For Money Honey', 335, "You workin' in bars ridin' in cars
 Never gonna give it for free
 Your apartment with a view on the finest avenue
 Lookin' at your beat on the street
@@ -582,7 +582,7 @@ Honey, what you gotta do for money
 Honey, what do you do for money
 What do you gotta do
 What do you gotta do",2,2,2)
-	('Givin The Dog A Bone','3:32', "She take you down easy
+	('Givin The Dog A Bone',332, "She take you down easy
 Going down to her knees
 Going down to the devil
 Down down to ninety degrees
@@ -650,7 +650,7 @@ I'm just a given a dog
 Givin' a dog
 Givin' a dog
 Ooooh, I'm just a givin' the dog a bone",2,2,2)
-	('Let Me Put My Love into You', '4:15', "Flying on a free flight
+	('Let Me Put My Love into You', 415, "Flying on a free flight
 Driving all night
 With my machinery
 'Cause I got the power
@@ -703,7 +703,7 @@ Let me put my love into you, babe
 Let me give it all, let me give it all
 To you, to you
 Give it all",2,2,2)
-	('Back in Black', '4:15', "Back in black I hit the sack
+	('Back in Black', 415, "Back in black I hit the sack
 I've been too long I'm glad to be back
 Yes I am
 Let loose from the noose
@@ -758,7 +758,7 @@ Back in black
 Yes I'm back in black
 
 Outta sight",2,2,2)
-	('You Shook Me All Night Long', '3:30',"She was a fast machine
+	('You Shook Me All Night Long', 330,"She was a fast machine
 She kept her motor clean
 She was the best damn woman I had ever seen
 She had the sightless eyes
@@ -808,7 +808,7 @@ Shook me all night long
 You really took me and you
 Yeah you shook me, yeah you shook me
 All night long",2,2,2)
-	('Have A Drink On Me', '3:58', "Whiskey, gin and brandy
+	('Have A Drink On Me', 358, "Whiskey, gin and brandy
 With a glass I'm pretty handy
 I'm trying to walk a straight line
 On sour mash and cheap wine
@@ -868,7 +868,7 @@ Have a drink on me
 Have a drink on me
 
 Have a drink on me",2,2,2)
-	('Shake A Leg', '4:05', "Idle juvenile on the street, on the street
+	('Shake A Leg', 405, "Idle juvenile on the street, on the street
 Who is kicking everything with his feet, with his feet
 Fighting on the wrong side of the law, of the law
 Don't kick, don't fight, don't sleep at night
@@ -909,7 +909,7 @@ Shake a leg, wake the dead
 Shake a leg, get stuck in
 Shake a leg, shake a leg
 Shake it!",2,2,2)
-	('Rock and Roll Ain’t Noise Pollution','4:13',"Hey there, all you middle men
+	('Rock and Roll Ain’t Noise Pollution',413,"Hey there, all you middle men
 Throw away your fancy clothes
 And while you're out there sittin' on a fence
 So get off your ass and come down here

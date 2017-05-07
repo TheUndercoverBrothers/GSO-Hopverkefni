@@ -1,0 +1,7 @@
+Hluti B
+a) SELECT * FROM diskur WHERE diskur LIKE "LIVE"
+b) SELECT * FROM flytjandi WHERE flytjandi LIKE "Angus Young"
+c) SELECT * FROM lagid WHERE ID_tegund LIKE 2
+d) SELECT * FROM lagid WHERE lengd > 500
+e) SELECT * FROM diskur WHERE utgafudagur >= 2010-01-01
+f) SELECT nafn,utgefandi,utgafudagur FROM diskur WHERE ID_tegund ORDER BY utgefandi(nafn)
